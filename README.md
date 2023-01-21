@@ -23,5 +23,3 @@ A página deve ter campos para inserção do texto a ser criptografado ou decrip
 O resultado deve ser exibido na tela.
 Deve adicionar um botão de copiar no campo de resultado.
 
-🔧 Tecnologias utilizadas
-HTML5 CSS3 JavaScript
